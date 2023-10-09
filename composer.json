@@ -13,19 +13,16 @@
             "homepage": "http://baptiste.xn--clavi-fsa.net/",
             "role": "Maintainer"
         },
-
         {
             "name": "Guillaume Potier",
             "email": "guillaume@wisembly.com",
             "role": "Maintainer"
         },
-
         {
             "name": "Ludovic Barreca",
             "email": "ludogp2@gmail.com",
             "role": "Project Founder"
         },
-
         {
             "name": "Elephant.IO Community",
             "role": "Contributors :)"
@@ -33,7 +30,7 @@
     ],
 
     "require": {
-        "php": ">=7.1.0",
+        "php": ">=8.0",
         "psr/log": "~1.0"
     },
 
